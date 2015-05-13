@@ -1,0 +1,6 @@
+c:\users\edson alves\VerificadorCartaoCreditoComTDD\VerificadorCartaoCreditoComTDD\obj\Debug\VerificadorCartaoCreditoComTDD.csprojResolveAssemblyReference.cache
+c:\users\edson alves\VerificadorCartaoCreditoComTDD\VerificadorCartaoCreditoComTDD\bin\VerificadorCartaoCreditoComTDD.dll.config
+c:\users\edson alves\VerificadorCartaoCreditoComTDD\VerificadorCartaoCreditoComTDD\bin\VerificadorCartaoCreditoComTDD.dll
+c:\users\edson alves\VerificadorCartaoCreditoComTDD\VerificadorCartaoCreditoComTDD\bin\VerificadorCartaoCreditoComTDD.pdb
+c:\users\edson alves\VerificadorCartaoCreditoComTDD\VerificadorCartaoCreditoComTDD\obj\Debug\VerificadorCartaoCreditoComTDD.dll
+c:\users\edson alves\VerificadorCartaoCreditoComTDD\VerificadorCartaoCreditoComTDD\obj\Debug\VerificadorCartaoCreditoComTDD.pdb
